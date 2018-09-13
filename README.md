@@ -1,2 +1,2 @@
-# Lab7
-bugdeeree hiine
+# Lab1
+git tailbar
